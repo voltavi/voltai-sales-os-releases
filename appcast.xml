@@ -3,6 +3,18 @@
   <channel>
     <title>Voltai Sales OS</title>
     <item>
+      <title>Version 0.2.7</title>
+      <description><![CDATA[Voltai Sales OS 0.2.7
+
+- Org chart: fixed connections disappearing after you drew them. You can now draw a line from a card's handle to another card and it stays — the higher card becomes the manager, side-by-side becomes a peer. A manager with multiple subordinates works, arranged neatly below.
+- Bigger, easier-to-grab cards and connection points; thicker lines.]]></description>
+      <pubDate>Tue, 30 Jun 2026 16:23:40 -0400</pubDate>
+      <sparkle:version>9</sparkle:version>
+      <sparkle:shortVersionString>0.2.7</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/voltavi/voltai-sales-os-releases/releases/download/v0.2.7/VoltaiSalesOS.zip" type="application/octet-stream" sparkle:edSignature="KXHf8WUH0llcYk5FyTm34w8o3Ea3de90vw2+FhHdnB0DNVevTXCRHdXUn524gSkng1MzPqiKFghJ2qnfVCIDCw==" length="62405208" />
+    </item>
+    <item>
       <title>Version 0.2.6</title>
       <description><![CDATA[Voltai Sales OS 0.2.6
 
