@@ -3,6 +3,21 @@
   <channel>
     <title>Voltai Sales OS</title>
     <item>
+      <title>Version 0.2.15</title>
+      <description><![CDATA[Voltai Sales OS 0.2.15
+
+- New: when a contact search on the org chart finds no match, you get an "Add new contact" panel:
+  1. Find on LinkedIn — a button that opens LinkedIn search already filtered by the name + company.
+  2. Enrich from ZoomInfo — paste the LinkedIn URL (or just use name + company) to auto-fill title, email and LinkedIn.
+  3. Review the details and push the contact straight to Attio. The map then refreshes from Attio, so Attio stays your source of truth.
+- Works with whatever you have: ZoomInfo-only, LinkedIn-only, or a direct "create in Attio" link if neither finds them.]]></description>
+      <pubDate>Tue, 30 Jun 2026 19:23:11 -0400</pubDate>
+      <sparkle:version>17</sparkle:version>
+      <sparkle:shortVersionString>0.2.15</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/voltavi/voltai-sales-os-releases/releases/download/v0.2.15/VoltaiSalesOS.zip" type="application/octet-stream" sparkle:edSignature="HN8F79qTsIIsgOIJNLEJgRzLrA7Ikcmd5dN7OZqkYuOPWC27ot091kdPXJFs5FYW2c49g4KMl0zWeOe+f5GjAQ==" length="62665254" />
+    </item>
+    <item>
       <title>Version 0.2.14</title>
       <description><![CDATA[Voltai Sales OS 0.2.14
 
