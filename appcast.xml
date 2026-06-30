@@ -3,6 +3,18 @@
   <channel>
     <title>Voltai Sales OS</title>
     <item>
+      <title>Version 0.2.11</title>
+      <description><![CDATA[Voltai Sales OS 0.2.11
+
+- Org map auto-arrange now spaces rows by the actual height of each card, so tall multi-line cards no longer overlap the row below — clean top-down trees every time.
+- Added Redo (⇧⌘Z or ⌘Y) to go with Undo (⌘Z).]]></description>
+      <pubDate>Tue, 30 Jun 2026 17:12:49 -0400</pubDate>
+      <sparkle:version>13</sparkle:version>
+      <sparkle:shortVersionString>0.2.11</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/voltavi/voltai-sales-os-releases/releases/download/v0.2.11/VoltaiSalesOS.zip" type="application/octet-stream" sparkle:edSignature="m3NhPqDtlcszmq3HyaDQXh7SIN8rxUMvI8wdWV8YukKOuxyPiPIojBKT9KtaanFNlRcpyPZKTMvnbevR5MXPAQ==" length="62659441" />
+    </item>
+    <item>
       <title>Version 0.2.10</title>
       <description><![CDATA[Voltai Sales OS 0.2.10
 
