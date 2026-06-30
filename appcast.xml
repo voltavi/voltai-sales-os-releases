@@ -3,6 +3,18 @@
   <channel>
     <title>Voltai Sales OS</title>
     <item>
+      <title>Version 0.2.14</title>
+      <description><![CDATA[Voltai Sales OS 0.2.14
+
+- The role-label dropdown on org-chart cards now closes automatically after you pick a label, and when you click anywhere outside it.
+- Added a "Budget holder" role (blue) to the label options.]]></description>
+      <pubDate>Tue, 30 Jun 2026 19:07:19 -0400</pubDate>
+      <sparkle:version>16</sparkle:version>
+      <sparkle:shortVersionString>0.2.14</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/voltavi/voltai-sales-os-releases/releases/download/v0.2.14/VoltaiSalesOS.zip" type="application/octet-stream" sparkle:edSignature="5wiBtd5Eg7aPFy3vjYWA0fmDz+cIf4FFmpSAKJwX1nufytKPGFILXVCpuktHuuQXe6eu3/8Ih5ssjCYbY7r6Cw==" length="62654955" />
+    </item>
+    <item>
       <title>Version 0.2.13</title>
       <description><![CDATA[Voltai Sales OS 0.2.13
 
