@@ -3,6 +3,17 @@
   <channel>
     <title>Voltai Sales OS</title>
     <item>
+      <title>Version 0.2.10</title>
+      <description><![CDATA[Voltai Sales OS 0.2.10
+
+- Tidier sidebar: API keys, Connections, Activity, and Updates are now grouped under a single "Settings" tab (with sub-tabs inside).]]></description>
+      <pubDate>Tue, 30 Jun 2026 17:00:23 -0400</pubDate>
+      <sparkle:version>12</sparkle:version>
+      <sparkle:shortVersionString>0.2.10</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/voltavi/voltai-sales-os-releases/releases/download/v0.2.10/VoltaiSalesOS.zip" type="application/octet-stream" sparkle:edSignature="HMqBHbZepDWFzl1C/vg73ygiSN6zCvIJ5cvDdZM9OihsGokatfowrZgCl9p0pParzoR4gs8QRXMZ0+AMhazfCg==" length="62481363" />
+    </item>
+    <item>
       <title>Version 0.2.9</title>
       <description><![CDATA[Voltai Sales OS 0.2.9
 
