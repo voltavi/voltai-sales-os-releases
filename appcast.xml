@@ -2,5 +2,20 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Voltai Sales OS</title>
+    <item>
+      <title>Version 0.2.2</title>
+      <description><![CDATA[Voltai Sales OS 0.2.2
+
+- Accounts: searchable, sortable, paginated table with owner filter, deals count and total value
+- Account hub: link Notion notes, Granola transcripts, and Slack channels to each account
+- Org page: LinkedIn-style relationship map — add contacts, drag to snap into manager / reports-to / peer, with editable comments
+- In-app Updates tab with manual update checks
+- External links now open in your browser; org-chart exports download to Downloads]]></description>
+      <pubDate>Tue, 30 Jun 2026 12:32:35 -0400</pubDate>
+      <sparkle:version>4</sparkle:version>
+      <sparkle:shortVersionString>0.2.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/voltavi/voltai-sales-os-releases/releases/download/v0.2.2/VoltaiSalesOS.zip" type="application/octet-stream" sparkle:edSignature="YcSdEAzfQYPlRfOt2wKuAgoFaFRCyEXJM548vFT++CrVmyoJpBnyDbp2hd6hMEBBxWQsNG7KYTQiQCN2gPrzDA==" length="62296384" />
+    </item>
   </channel>
 </rss>
