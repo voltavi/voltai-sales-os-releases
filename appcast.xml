@@ -3,6 +3,17 @@
   <channel>
     <title>Voltai Sales OS</title>
     <item>
+      <title>Version 0.2.8</title>
+      <description><![CDATA[Voltai Sales OS 0.2.8
+
+- Org chart: drawing a connection now produces clean, solid down-tree lines. Dragging from a card's bottom handle to another card makes it report to that manager; a manager with multiple subordinates lays out neatly below, no more stray dashed/diagonal lines.]]></description>
+      <pubDate>Tue, 30 Jun 2026 16:33:02 -0400</pubDate>
+      <sparkle:version>10</sparkle:version>
+      <sparkle:shortVersionString>0.2.8</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/voltavi/voltai-sales-os-releases/releases/download/v0.2.8/VoltaiSalesOS.zip" type="application/octet-stream" sparkle:edSignature="c1VKbHLCaVBk2hlrGMUU7Y5SYmRaGh2UOGwNdHU0Jp/9jHIiWWyonSyFhrObJMnEuFbLCk5x08oCm//zUAlMDQ==" length="62408797" />
+    </item>
+    <item>
       <title>Version 0.2.7</title>
       <description><![CDATA[Voltai Sales OS 0.2.7
 
