@@ -3,6 +3,19 @@
   <channel>
     <title>Voltai Sales OS</title>
     <item>
+      <title>Version 0.2.16</title>
+      <description><![CDATA[Voltai Sales OS 0.2.16
+
+- The org chart now stretches to fill the window — collapsing the left sidebar gives the chart more room instead of empty margin.
+- Added a "Full screen" button on the org chart (press Esc to exit) for a focused, edge-to-edge view.
+- The shortcut hint now also shows "⇧ select multiple".]]></description>
+      <pubDate>Tue, 30 Jun 2026 19:32:30 -0400</pubDate>
+      <sparkle:version>18</sparkle:version>
+      <sparkle:shortVersionString>0.2.16</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/voltavi/voltai-sales-os-releases/releases/download/v0.2.16/VoltaiSalesOS.zip" type="application/octet-stream" sparkle:edSignature="+gtl/xCkTYRyxT9BbkIU5R4JI39RbuGtflkPHlbllshUlwYPPpRnvT9uDKOYFrDjcR73DiaOeeAQI+p/jv6NCw==" length="62666587" />
+    </item>
+    <item>
       <title>Version 0.2.15</title>
       <description><![CDATA[Voltai Sales OS 0.2.15
 
