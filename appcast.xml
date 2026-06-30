@@ -3,6 +3,19 @@
   <channel>
     <title>Voltai Sales OS</title>
     <item>
+      <title>Version 0.2.13</title>
+      <description><![CDATA[Voltai Sales OS 0.2.13
+
+- App icon is now solid black edge-to-edge — removed the grey border macOS was adding.
+- Org-chart cards are all the same height now, so the tree connector lines stay straight. Long job titles truncate to two lines; hover a card's title to see the full text.
+- When you search contacts, anyone already on the map now shows up greyed out ("Already on the map") instead of disappearing from the results.]]></description>
+      <pubDate>Tue, 30 Jun 2026 19:02:33 -0400</pubDate>
+      <sparkle:version>15</sparkle:version>
+      <sparkle:shortVersionString>0.2.13</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/voltavi/voltai-sales-os-releases/releases/download/v0.2.13/VoltaiSalesOS.zip" type="application/octet-stream" sparkle:edSignature="/9zpvYr2naXQJaAFTJdBzWsypKIb6+koN+sswL54RQMnGGknOVLqbmLf9gKculWoHom6x/bleLYX4c05X+FcBA==" length="62654171" />
+    </item>
+    <item>
       <title>Version 0.2.12</title>
       <description><![CDATA[Voltai Sales OS 0.2.12
 
