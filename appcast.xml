@@ -3,6 +3,20 @@
   <channel>
     <title>Voltai Sales OS</title>
     <item>
+      <title>Version 0.2.9</title>
+      <description><![CDATA[Voltai Sales OS 0.2.9
+
+- Right-click a card to add a manager, subordinate, or peer (search and pick the contact), or to replace the contact on a card.
+- Color-coded role labels (Decision maker, Champion, Evaluator, Procurement, Influencer, Detractor). Pick several and the colored bar splits to show each.
+- Undo with ⌘Z.
+- Cleaner cards: the connection dots now appear only when you hover a card.]]></description>
+      <pubDate>Tue, 30 Jun 2026 16:50:07 -0400</pubDate>
+      <sparkle:version>11</sparkle:version>
+      <sparkle:shortVersionString>0.2.9</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/voltavi/voltai-sales-os-releases/releases/download/v0.2.9/VoltaiSalesOS.zip" type="application/octet-stream" sparkle:edSignature="cPXQ3AXgnOYd7XovUubBBoGeUIahyHjqwcihXUHXLJZhZEXQpm1Tgq8mYQP8MAMEOR2JmbWyb83sDWb3L1HqCQ==" length="62422832" />
+    </item>
+    <item>
       <title>Version 0.2.8</title>
       <description><![CDATA[Voltai Sales OS 0.2.8
 
