@@ -3,6 +3,18 @@
   <channel>
     <title>Voltai Sales OS</title>
     <item>
+      <title>Version 0.2.12</title>
+      <description><![CDATA[Voltai Sales OS 0.2.12
+
+- Renamed the org-chart "Refresh" button to "Refresh Attio feed" so it's clear what it does.
+- It now also updates cards already on the chart — if a contact's name or title changed in Attio, the card on your map reflects it.]]></description>
+      <pubDate>Tue, 30 Jun 2026 17:38:09 -0400</pubDate>
+      <sparkle:version>14</sparkle:version>
+      <sparkle:shortVersionString>0.2.12</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/voltavi/voltai-sales-os-releases/releases/download/v0.2.12/VoltaiSalesOS.zip" type="application/octet-stream" sparkle:edSignature="JRpLy9LiU1fnlc7IMXX5tLYNrN7qmOBnc57uDqr8zgAlp+C0RXO+EmZpufUiBbgq2Lbc6lJUENGNt1MhZJ5mDQ==" length="62661635" />
+    </item>
+    <item>
       <title>Version 0.2.11</title>
       <description><![CDATA[Voltai Sales OS 0.2.11
 
